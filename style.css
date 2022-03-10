@@ -65,3 +65,14 @@ padding: 10px;
 div {
 	text-align: center;
 }
+
+ul {
+  text-align: center;
+}
+li {
+  display: inline-block;
+}
+
+ol {
+	text-align: center;
+}
