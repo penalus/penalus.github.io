@@ -66,13 +66,10 @@ div {
 	text-align: center;
 }
 
-ul {
-  text-align: center;
-}
-li {
-  display: inline-block;
+.lists {
+	text-align: -webkit-center;
 }
 
-ol {
-	text-align: center;
+.lists ul ol {
+	display:block;
 }
