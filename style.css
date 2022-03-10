@@ -5,6 +5,7 @@ html {
 #intro {
 	text-size: 24px;
 	border: 2px solid black;
+	text-align: center;
 }
 
 table {
