@@ -1,7 +1,7 @@
 
 
 #intro {
-	text-size: 24px;
+	font-size: 24px;
 	border: 2px solid black;
 }
 
@@ -48,7 +48,7 @@ h2 {
 
 h1 {
 	text-align: center;
-	color: cornflowerblue;
+	color: cornflowerblue !important;
 }
 
 
