@@ -1,3 +1,7 @@
+html {
+	font-family: "comic sans";
+}
+
 #intro {
 	text-size: 24px;
 	border: 2px solid black;
